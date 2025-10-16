@@ -47,8 +47,7 @@ const Sidebar = ({ setBannerColor }) => {
       <div className="about-us" id="about-us">
         <h2>About Us</h2>
         <p>
-          AnyCompany was founded by a group of friends who share a passion for
-          bicycling and they all agree that it is always a great day to bike!
+          AnyCompany was founded by \Antoine and Ivan!!! We know bikes, come to us for your needs.
         </p>
         <img src={bikingOutdoorsImage} alt="" />
         <div className="buttons">
