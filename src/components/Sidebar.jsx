@@ -27,12 +27,12 @@ const Sidebar = ({ setBannerColor }) => {
         <p>
           <b>Phone:</b>
           <br />
-          1-800-555-1212
+          5123254536
         </p>
         <p>
           <b>Hours:</b>
           <br />
-          Mon-Fri 7am-7pm <br /> Sat 8am-6pm <br /> Sun closed
+          Mon-Fri 6am-5pm <br /> Sat 8am-6pm <br /> Sun closed
         </p>
       </div>
       <div className="map-img-div">
